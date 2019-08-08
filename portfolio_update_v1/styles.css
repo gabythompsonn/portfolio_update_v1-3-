@@ -57,7 +57,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/treeline.jpg') no-repeat top center ;
+  background: url('images/treeline-min.jpg') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -80,6 +80,7 @@ header .profile-image:hover {
   background-color: #f3ece7;
   color: black;
   padding: 10px;
+
   border-radius: 12px;
   display: table;
   margin: 10px auto;
